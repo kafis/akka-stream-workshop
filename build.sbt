@@ -1,6 +1,7 @@
 enablePlugins(sbtdocker.DockerPlugin, JavaAppPackaging)
 
 
+
 name := "auslaenderbehoerde"
 
 version := "0.1.0-SNAPSHOT"
